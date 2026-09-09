@@ -1,3 +1,4 @@
+//video link: https://kommodo.ai/recordings/qoIfNLpavksmosjW3S6l?onlyRecording=1
 // TODO: Draw the left ear
 triangle(10,5, 10,40, 50,40, "brown")
 // TODO: Draw the left part of the face
